@@ -7,7 +7,7 @@
 | 项目 | 说明 |
 |---|---|
 | 应用包名 | `com.campus.competitionassistant` |
-| 当前版本 | v1.1.0 |
+| 当前版本 | v0.1.0 |
 | 运行平台 | HarmonyOS 5.0（API 12），手机 / 平板 |
 | 客户端 | ArkTS + ArkUI（Stage 模型） |
 | 云服务 | AppGallery Connect：Cloud DB / Cloud Functions / Auth / Push（可选） |

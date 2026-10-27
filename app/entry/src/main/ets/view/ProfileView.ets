@@ -155,7 +155,7 @@ export struct ProfileView {
         // 设置
         this.MenuRow('⚙️', '设置', 'pages/SettingsPage')
 
-        Text('v1.1.0 · 大学生竞赛助手')
+        Text('v0.1.0 · 大学生竞赛助手')
           .fontSize(12)
           .fontColor(AppColors.TEXT_SECONDARY)
           .margin({ top: 24 })

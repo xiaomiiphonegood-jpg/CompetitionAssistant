@@ -238,7 +238,7 @@ struct SettingsPage {
           .borderRadius(16)
           .onClick(() => this.clearData())
 
-          Text('v1.1.0 · 大学生竞赛助手')
+          Text('v0.1.0 · 大学生竞赛助手')
             .fontSize(12)
             .fontColor(AppColors.TEXT_SECONDARY)
             .margin({ top: 16 })
