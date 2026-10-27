@@ -1,0 +1,12 @@
+{
+  "name": "competition-assistant-cloud",
+  "version": "1.0.0",
+  "description": "大学生竞赛助手 - AGC 云函数（数据接口 + AI 代理）",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@agconnect/cloud-server": "^1.0.0"
+  }
+}

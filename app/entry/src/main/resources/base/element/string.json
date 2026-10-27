@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "大学生竞赛助手主模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "大学生竞赛助手"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "竞赛助手"
+    }
+  ]
+}

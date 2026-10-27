@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CompetitionDetail",
+    "pages/AiChat",
+    "pages/PlanDetail",
+    "pages/CreatePost",
+    "pages/RankList",
+    "pages/ReminderCenter",
+    "pages/Login",
+    "pages/LegalPage",
+    "pages/SettingsPage",
+    "pages/ProfileEdit",
+    "pages/ModelConfig",
+    "pages/PostDetail"
+  ]
+}

@@ -1,0 +1,29 @@
+# ---------- 操作系统 / 编辑器 ----------
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ---------- HarmonyOS / DevEco 构建产物 ----------
+app/.idea/
+app/oh_modules/
+app/.hvigor/
+app/entry/build/
+app/entry/.preview/
+app/local.properties
+*.hap
+*.har
+*.app
+*.log
+
+# ---------- Node.js ----------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---------- 会话临时文件 ----------
+.dsh-*
+
+# 种子数据由 cloudfunctions/seed.js 生成；如希望每次部署重新生成，取消下一行注释
+# cloudfunctions/seed-data.json
